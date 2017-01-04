@@ -1,0 +1,33 @@
+table{
+border:2px solid black;
+padding:20px;
+margin:10px;
+width: 40%;
+display:inline-table;
+text-align: center;
+
+}
+
+tr td{
+border: 1px solid black;
+padding:5px;
+margin: 5px;
+
+}
+button{
+  margin:10px;
+  padding:5px;
+}
+
+#meal-deets{
+height:400px;
+}
+#cust{
+
+
+}
+#my-earn{
+  left: 586px;
+  position: relative;
+  top: -190px;
+}
